@@ -7,6 +7,9 @@
 const hre = require("hardhat");
 
 async function main() {
+  // Setup accounts
+
+  // Deploy Real Estate
 
 }
 
