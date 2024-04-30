@@ -11,6 +11,8 @@ async function main() {
 
   // Deploy Real Estate
 
+  // Deploy Escrow
+
 }
 
 // We recommend this pattern to be able to use async/await everywhere
